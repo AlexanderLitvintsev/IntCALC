@@ -1,3 +1,0 @@
-const int maxArrayNo=MaxNodesNumber;
-int SobstvZn(int n,complex<double> A[][MaxArrayNo],complex<double> *Ev,complex<double> V[][MaxArrayNo]);
-void aa02c(double xr,double xi, double yr,double yi,double *zr,double *zi);

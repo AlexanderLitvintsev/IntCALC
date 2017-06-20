@@ -1,0 +1,13 @@
+﻿Построение начато 07.12.2014 18:08:03.
+     1>Проект "D:\Projects\IntCalc2Console\intcalc2c\myexample\myexample.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\intcalc2c.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt intcalc2c.cpp
+         intcalc2c.cpp
+     1>d:\projects\intcalc2console\intcalc2c\myexample\intcalc2c.h(14): fatal error C1083: Не удается открыть файл включение: interval.hpp: No such file or directory
+     1>Построение проекта "D:\Projects\IntCalc2Console\intcalc2c\myexample\myexample.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.23
